@@ -66,7 +66,7 @@
     "hypercore": "^6.17.3",
     "hyperdiscovery": "^8.0.0",
     "mkdirp": "^0.5.1",
-    "pkg": "^4.3.3",
+    "pkg": "^4.3.7",
     "random-access-memory": "^3.0.0",
     "recursive-readdir-sync": "^1.0.6",
     "request": "^2.81.0",
